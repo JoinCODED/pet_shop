@@ -3,7 +3,7 @@ Create a pet shop with the following functionalities:
 	Pet Model with the following fields:
 		- name : Char	
 		- age : Integer	
-		- sex : Char, either Male or Female	
+		- sex : Char, either Male or Female (make sure both key and value for the choices are as specified)	
 		- price: Decimal	
 	1- list of pets:
 		the pets should be sent in the dictionary with the key “pets”
