@@ -14,8 +14,11 @@ Create a pet shop with the following functionalities:
 		the url name should be “pet-details”
 	3- pet create:
 		the url name should be called “create-pet”
+		after creation, the user should be redirected to the pets details page
 	4- pet update:
 		the url name should be called “update-pet”
+		after update, the user should be redirected to the pets details page
 	5- pet delete:
-		the url name should be called “delete-pet”
+		the url name should be called “delete-pet”,
+		after deletion, the user should be redirected to the pets list page
 
